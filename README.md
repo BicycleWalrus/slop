@@ -13,6 +13,8 @@ I really don't think you should.
 ### Prerequisites
 
 Please don't even try to install this software. Run far, far away.
+But if you do want to try using this code, please install the application: sl
+apt install sl
 
 ## Built With
 
