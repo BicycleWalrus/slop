@@ -4,6 +4,8 @@ Slop is my first ever repository of code developed during my first ever Python c
 I thoroughly expect everything to be horrendously coded, and under no circumstances should
 anyone consider using this code in any way, shape, and/form. You have been warned.
 
+Also, I'd like to learn about how to version control my code using Git!
+
 ## Getting Started
 
 I really don't think you should.
